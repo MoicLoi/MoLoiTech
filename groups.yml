@@ -1,0 +1,51 @@
+MainMenu:
+   type:nested
+   item:
+   name:"摩洛科技"
+   material:REDSTONE
+   tier:0
+Information:
+   type:button
+   item:
+   name:"信息"
+   material:BEDROCK
+   parent:MainMenu
+   tier:3
+   actions:"link https://github.com/MoicLoi/MoLoiTech/"
+CombineMaterials:
+   type:sub
+   item:
+   name:"合成材料"
+   material:QUARTZ_BLOCK
+   parent:MainMenu
+   tier:4
+Machines:
+   type:sub
+   item:
+   name:"机器"
+   material:WOOD
+   tier:5
+NetworkAutoCombine:
+   type:sub
+   item:
+   name:"更多种类的自动合成机"
+   material:CRAFTING_TABLE
+   parent:MainMenu
+   tier:8
+   glow:true
+Power:
+   type:sub
+   parent:MainMenu
+   item:
+   name:"能源"
+   material_type:slimefun
+   material:ENERGY_CONNECTOR
+   tier:6
+   glow:true
+Material_Spawner:
+   type:sub
+   parent:MainMenu
+   item:
+   name:"材料自动生成器"
+   material:REDSTONE
+   tier:7
