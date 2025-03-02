@@ -1,0 +1,14 @@
+id:MoLoiTech
+name:MoloiTech
+depends: []
+pluginDepends:
+- FoxyMachines
+- InfinityExpansion
+- FluffyMachines
+- Networks
+- GuizhanLibPlugin
+version: Inter-0.0.1
+description: Hello.world
+authors:
+- MoicLoi
+repo:https://github.com/MoicLoi/MoLoiTech/
