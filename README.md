@@ -1,2 +1,2 @@
 # MoLoiTech
-莫罗科技是一个基于Rykenslimfuncustom编写的粘液科技附属插件 目前正在开发中
+摩洛科技是一个基于Rykenslimfuncustom编写的粘液科技附属插件 目前正在开发中
